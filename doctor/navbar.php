@@ -27,6 +27,9 @@ if (session_status() === PHP_SESSION_NONE) {
                 <li class="nav-item">
                     <a class="nav-link" href=" view_appointments.php">Appointments</a>
                 </li>
+                <li class="nav-item">
+                    <a class="nav-link" href=" doctor_availability.php">Availability</a>
+                </li>
 
                 
                 <li class="nav-item">
